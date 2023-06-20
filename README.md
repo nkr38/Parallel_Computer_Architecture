@@ -1,2 +1,2 @@
-# ECEC413
-Code from ECEC413
+# ECEC413 - Parallel Computer Architecture
+Code that I wrote for ECEC413
